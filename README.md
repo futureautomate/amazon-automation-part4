@@ -18,6 +18,10 @@ The coding part is not that tough, get access to all elements, and use the funct
 If you need python tutorials -
 ## Python part 1 - https://youtu.be/0dSSXDB2nos
 ## Python part 2 - https://youtu.be/3jhHxoFGaa0
+
+## Python and Word tute - https://stackabuse.com/reading-and-writing-ms-word-files-in-python-via-python-docx-module/
+
+## Documentation - https://python-docx.readthedocs.io/en/latest/
 -----------------------------------------------Useful Series------------------------------------------
 
 ## GitHub Automation - https://www.youtube.com/playlist?list=PLAlAGrU-NzBf-XUodFsTSS7Ok2ul0aQx6
